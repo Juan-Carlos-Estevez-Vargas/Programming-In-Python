@@ -57,3 +57,16 @@ Los ejercicios están divididos en carpetas, las cuales cada una de ellas consta
 * [Suma dígitos de un número](https://github.com/Juan-Carlos-Estevez-Vargas/Basic-Programming-In-Python/blob/master/3.%20bucles/while/Suma-digitos-de-un-numero.py)
 * [Conteo de votos para 3 candidatos](https://github.com/Juan-Carlos-Estevez-Vargas/Basic-Programming-In-Python/blob/master/3.%20bucles/while/Votaciones.py)
 * [Adivina el número](https://github.com/Juan-Carlos-Estevez-Vargas/Basic-Programming-In-Python/blob/master/3.%20bucles/while/numero_secreto.py)
+
+## Funciones.
+* [Cálculo de la suma de números primos](https://github.com/Juan-Carlos-Estevez-Vargas/Basic-Programming-In-Python/blob/master/4.%20funciones/Calculo-numeros-primos.py)
+* [Capitalización de una persona natural](https://github.com/Juan-Carlos-Estevez-Vargas/Basic-Programming-In-Python/blob/master/4.%20funciones/Capitalizacion.py)
+* [Derivada de un polinomio de tercer grado](https://github.com/Juan-Carlos-Estevez-Vargas/Basic-Programming-In-Python/blob/master/4.%20funciones/Derivada_Polinomio_3Grado.py)
+* [Discriminante imaginario](https://github.com/Juan-Carlos-Estevez-Vargas/Basic-Programming-In-Python/blob/master/4.%20funciones/Discriminante_Imaginario.py)
+* [Factorial de un número](https://github.com/Juan-Carlos-Estevez-Vargas/Basic-Programming-In-Python/blob/master/4.%20funciones/Factorial-numero.py)
+* [Hipótesis de Collartz](https://github.com/Juan-Carlos-Estevez-Vargas/Basic-Programming-In-Python/blob/master/4.%20funciones/formula_collatz.py)
+* [Suma de números estrictamente primos](https://github.com/Juan-Carlos-Estevez-Vargas/Basic-Programming-In-Python/blob/master/4.%20funciones/suma_primos.py)
+* [Funciones lambda](https://github.com/Juan-Carlos-Estevez-Vargas/Basic-Programming-In-Python/blob/master/4.%20funciones/lambda.py)
+
+## Ejercicio Calculadora avanzada
+Este ejercicio consta de una calculadora compuesta realizada en Python y mostrada por consola; la calculadora es capaz de realizar las operaciones básicas como suma, resta, multiplicación, división, potencia, raíz cúbica, módulo y raíz cuadrada; así como también permite operar con sistemas numéricos como lo son las tranformaciones en diferentes bases (binario, octal, hexadecimal, decimal) y finalmente opera con diferentes figuras geométricas; la práctica la encontrarás [a continuación](https://github.com/Juan-Carlos-Estevez-Vargas/Basic-Programming-In-Python/tree/master/4.%20funciones/calculadora)
