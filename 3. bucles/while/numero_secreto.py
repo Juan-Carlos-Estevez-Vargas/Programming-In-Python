@@ -21,15 +21,28 @@
 """
 import random
 
-numeroSecreto = random.randint(0, 10)
-numero = int(input('Ingrese un número entre 0 y 10 por favor  ')) # 5
-intentos = 0
 
-if 0 <= numero <= 10:
-    while numero != numeroSecreto:
-        print("¡Ja, ja! ¡Estás atrapado en mi ciclo¡")
-        intentos += 1
-        numero = int(input('Ingrese un número entre 0 y 10 por favor  ')) # 4
-    print(f"¡Bien hecho, muggle! Eres libre ahora  ->  Intentos {intentos}")
-else:
-    print('El número debe estar entre 0 y 10, Intenta nuevamente.')
+def numero_secreto():
+    try:
+        numeroSecreto = random.randint(0, 10)
+        intentos = 1
+        numero = int(input('Ingrese un número entre 0 y 10 por favor  '))
+
+        if 0 <= numero <= 10:
+            while numero != numeroSecreto:
+                print("¡Ja, ja! ¡Estás atrapado en mi ciclo¡")
+                intentos += 1
+                numero = int(input('Ingrese un número entre 0 y 10 por favor  '))
+
+            print(
+                f"¡Bien hecho, muggle! Eres libre ahora  ->  Intentos {intentos}")
+        else:
+            print('El número debe estar entre 0 y 10, Intenta nuevamente.')
+            numero_secreto()
+    except Exception:
+        print('Ingresaste algo que NO es un número')
+        numero_secreto()
+
+
+numero_secreto()
+
