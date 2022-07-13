@@ -33,8 +33,8 @@ Los ejercicios están divididos en carpetas, las cuales cada una de ellas consta
 * [Calculadora de impuestos](https://github.com/Juan-Carlos-Estevez-Vargas/Basic-Programming-In-Python/blob/master/2.%20condicionales/calculadora_impuestos.py)
 * [Tiempo final de un periodo de tiempo dado](https://github.com/Juan-Carlos-Estevez-Vargas/Basic-Programming-In-Python/blob/master/2.%20condicionales/duracion_evento.py)
 
-## Bucles
-### For
+## Bucles.
+* ### For.
 * [Introducción al bucle](https://github.com/Juan-Carlos-Estevez-Vargas/Basic-Programming-In-Python/blob/master/3.%20bucles/for/introduccion_for.py)
 * [Asistente más viejo y más jóven de una reunión](https://github.com/Juan-Carlos-Estevez-Vargas/Basic-Programming-In-Python/blob/master/3.%20bucles/for/Asistentes-Reunion.py)
 * [Encriptación del Cesar](https://github.com/Juan-Carlos-Estevez-Vargas/Basic-Programming-In-Python/blob/master/3.%20bucles/for/Encriptacion-del-cesar.py)
@@ -47,3 +47,13 @@ Los ejercicios están divididos en carpetas, las cuales cada una de ellas consta
 * [Pintar por pantalla un triángulo isósceles](https://github.com/Juan-Carlos-Estevez-Vargas/Basic-Programming-In-Python/blob/master/3.%20bucles/for/Triangulo_isosceles.py)
 * [Conteo en forma de 'Mississippi'](https://github.com/Juan-Carlos-Estevez-Vargas/Basic-Programming-In-Python/blob/master/3.%20bucles/for/mississippi.py)
 * [Traga palabras](https://github.com/Juan-Carlos-Estevez-Vargas/Basic-Programming-In-Python/blob/master/3.%20bucles/for/traga_palabras.py)
+
+* ### While.
+* [Introducción al bucle while](https://github.com/Juan-Carlos-Estevez-Vargas/Basic-Programming-In-Python/blob/master/3.%20bucles/while/introduccion_while.py)
+* [Hipótesis de Lothar Collartz](https://github.com/Juan-Carlos-Estevez-Vargas/Basic-Programming-In-Python/blob/master/3.%20bucles/while/Collartz.py)
+* [Contador de números divisibles en 3 y 7](https://github.com/Juan-Carlos-Estevez-Vargas/Basic-Programming-In-Python/blob/master/3.%20bucles/while/Contador_Numeros.py)
+* [Suma de los dígitos de n números y conteo de cuántos de ellos son pares](https://github.com/Juan-Carlos-Estevez-Vargas/Basic-Programming-In-Python/blob/master/3.%20bucles/while/Numeros-pares.py)
+* [Nómina de n empleados](https://github.com/Juan-Carlos-Estevez-Vargas/Basic-Programming-In-Python/blob/master/3.%20bucles/while/Sueldo_Empleados.py)
+* [Suma dígitos de un número](https://github.com/Juan-Carlos-Estevez-Vargas/Basic-Programming-In-Python/blob/master/3.%20bucles/while/Suma-digitos-de-un-numero.py)
+* [Conteo de votos para 3 candidatos](https://github.com/Juan-Carlos-Estevez-Vargas/Basic-Programming-In-Python/blob/master/3.%20bucles/while/Votaciones.py)
+* [Adivina el número](https://github.com/Juan-Carlos-Estevez-Vargas/Basic-Programming-In-Python/blob/master/3.%20bucles/while/numero_secreto.py)
