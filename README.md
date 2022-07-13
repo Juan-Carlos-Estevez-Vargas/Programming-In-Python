@@ -32,3 +32,18 @@ Los ejercicios están divididos en carpetas, las cuales cada una de ellas consta
 * [Validación de un año bisiesto](https://github.com/Juan-Carlos-Estevez-Vargas/Basic-Programming-In-Python/blob/master/2.%20condicionales/anio_bisiesto.py)
 * [Calculadora de impuestos](https://github.com/Juan-Carlos-Estevez-Vargas/Basic-Programming-In-Python/blob/master/2.%20condicionales/calculadora_impuestos.py)
 * [Tiempo final de un periodo de tiempo dado](https://github.com/Juan-Carlos-Estevez-Vargas/Basic-Programming-In-Python/blob/master/2.%20condicionales/duracion_evento.py)
+
+## Bucles
+### For
+* [Introducción al bucle](https://github.com/Juan-Carlos-Estevez-Vargas/Basic-Programming-In-Python/blob/master/3.%20bucles/for/introduccion_for.py)
+* [Asistente más viejo y más jóven de una reunión](https://github.com/Juan-Carlos-Estevez-Vargas/Basic-Programming-In-Python/blob/master/3.%20bucles/for/Asistentes-Reunion.py)
+* [Encriptación del Cesar](https://github.com/Juan-Carlos-Estevez-Vargas/Basic-Programming-In-Python/blob/master/3.%20bucles/for/Encriptacion-del-cesar.py)
+* [Cálculo del n-ésimo empleado con mayor sueldo](https://github.com/Juan-Carlos-Estevez-Vargas/Basic-Programming-In-Python/blob/master/3.%20bucles/for/Mayor_Sueldo_Empleado.py)
+* [Nómina para n trabajadores](https://github.com/Juan-Carlos-Estevez-Vargas/Basic-Programming-In-Python/blob/master/3.%20bucles/for/Nomina.py)
+* [Promedio de notas de n alumnos](https://github.com/Juan-Carlos-Estevez-Vargas/Basic-Programming-In-Python/blob/master/3.%20bucles/for/Promedio_Notas.py)
+* [Sucesión de Fibonacci](https://github.com/Juan-Carlos-Estevez-Vargas/Basic-Programming-In-Python/blob/master/3.%20bucles/for/Sucesion-Fibonacci.py)
+* [Suma de números pares e impares](https://github.com/Juan-Carlos-Estevez-Vargas/Basic-Programming-In-Python/blob/master/3.%20bucles/for/Suma-pares-e-impares.py)
+* [Tabla de multiplicar de un número específico](https://github.com/Juan-Carlos-Estevez-Vargas/Basic-Programming-In-Python/blob/master/3.%20bucles/for/Tabla-de-multiplicar.py)
+* [Pintar por pantalla un triángulo isósceles](https://github.com/Juan-Carlos-Estevez-Vargas/Basic-Programming-In-Python/blob/master/3.%20bucles/for/Triangulo_isosceles.py)
+* [Conteo en forma de 'Mississippi'](https://github.com/Juan-Carlos-Estevez-Vargas/Basic-Programming-In-Python/blob/master/3.%20bucles/for/mississippi.py)
+* [Traga palabras](https://github.com/Juan-Carlos-Estevez-Vargas/Basic-Programming-In-Python/blob/master/3.%20bucles/for/traga_palabras.py)
