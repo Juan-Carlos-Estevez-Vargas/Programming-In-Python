@@ -77,3 +77,11 @@ Este ejercicio consta de una calculadora compuesta realizada en Python y mostrad
 * [Almacenamiento del nombre de n personas con la longitud de su nombre](https://github.com/Juan-Carlos-Estevez-Vargas/Basic-Programming-In-Python/blob/master/5.%20arrays_matrices/arrays/Nombres-personas-y-su-longitud.py)
 * [Múltiplos de un número en un array](https://github.com/Juan-Carlos-Estevez-Vargas/Basic-Programming-In-Python/blob/master/5.%20arrays_matrices/arrays/multiplos-de-un-numero.py)
 * [calculo si hay un numero que sea igual a la suma de los demás elementos de un vector dado](https://github.com/Juan-Carlos-Estevez-Vargas/Basic-Programming-In-Python/blob/master/5.%20arrays_matrices/arrays/vector-numero-igual-a-la-suma-de-los-demas.py)
+
+## Matrices.
+* [Introducción a las matrices](https://github.com/Juan-Carlos-Estevez-Vargas/Basic-Programming-In-Python/blob/master/5.%20arrays_matrices/matrices/introduccion.py)
+* [Diagonal principal de una matriz](https://github.com/Juan-Carlos-Estevez-Vargas/Basic-Programming-In-Python/blob/master/5.%20arrays_matrices/matrices/diagonal_principal.py)
+* [Matriz simétrica](https://github.com/Juan-Carlos-Estevez-Vargas/Basic-Programming-In-Python/blob/master/5.%20arrays_matrices/matrices/matriz_simetrica.py)
+* [Multiplicación de matrices](https://github.com/Juan-Carlos-Estevez-Vargas/Basic-Programming-In-Python/blob/master/5.%20arrays_matrices/matrices/multiplicacion.py)
+* [Suma, resta y multiplicación de matrices con Numpy](https://github.com/Juan-Carlos-Estevez-Vargas/Basic-Programming-In-Python/blob/master/5.%20arrays_matrices/matrices/suma_resta_multiplicacion.py)
+* [Matriz transpuesta](https://github.com/Juan-Carlos-Estevez-Vargas/Basic-Programming-In-Python/blob/master/5.%20arrays_matrices/matrices/transpuesta.py)
