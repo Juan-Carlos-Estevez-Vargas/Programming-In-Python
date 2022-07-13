@@ -73,3 +73,7 @@ Este ejercicio consta de una calculadora compuesta realizada en Python y mostrad
 
 ## Arreglos.
 * [Introducción a los arreglos en Python](https://github.com/Juan-Carlos-Estevez-Vargas/Basic-Programming-In-Python/blob/master/5.%20arrays_matrices/arrays/introduccion_array.py)
+* [Eliminación de la nota mas baja de un array](https://github.com/Juan-Carlos-Estevez-Vargas/Basic-Programming-In-Python/blob/master/5.%20arrays_matrices/arrays/Eliminacion-nota-mas-baja.py)
+* [Almacenamiento del nombre de n personas con la longitud de su nombre](https://github.com/Juan-Carlos-Estevez-Vargas/Basic-Programming-In-Python/blob/master/5.%20arrays_matrices/arrays/Nombres-personas-y-su-longitud.py)
+* [Múltiplos de un número en un array](https://github.com/Juan-Carlos-Estevez-Vargas/Basic-Programming-In-Python/blob/master/5.%20arrays_matrices/arrays/multiplos-de-un-numero.py)
+* [calculo si hay un numero que sea igual a la suma de los demás elementos de un vector dado](https://github.com/Juan-Carlos-Estevez-Vargas/Basic-Programming-In-Python/blob/master/5.%20arrays_matrices/arrays/vector-numero-igual-a-la-suma-de-los-demas.py)
