@@ -68,5 +68,8 @@ Los ejercicios están divididos en carpetas, las cuales cada una de ellas consta
 * [Suma de números estrictamente primos](https://github.com/Juan-Carlos-Estevez-Vargas/Basic-Programming-In-Python/blob/master/4.%20funciones/suma_primos.py)
 * [Funciones lambda](https://github.com/Juan-Carlos-Estevez-Vargas/Basic-Programming-In-Python/blob/master/4.%20funciones/lambda.py)
 
-## Ejercicio Calculadora avanzada
+## Ejercicio Calculadora avanzada.
 Este ejercicio consta de una calculadora compuesta realizada en Python y mostrada por consola; la calculadora es capaz de realizar las operaciones básicas como suma, resta, multiplicación, división, potencia, raíz cúbica, módulo y raíz cuadrada; así como también permite operar con sistemas numéricos como lo son las tranformaciones en diferentes bases (binario, octal, hexadecimal, decimal) y finalmente opera con diferentes figuras geométricas; la práctica la encontrarás [a continuación](https://github.com/Juan-Carlos-Estevez-Vargas/Basic-Programming-In-Python/tree/master/4.%20funciones/calculadora)
+
+## Arreglos.
+* [Introducción a los arreglos en Python](https://github.com/Juan-Carlos-Estevez-Vargas/Basic-Programming-In-Python/blob/master/5.%20arrays_matrices/arrays/introduccion_array.py)
