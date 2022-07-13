@@ -11,23 +11,13 @@ def es_primo(numero):
     return band
 
 
-acumulador = 0 # Suma todos los números primos.
-cantPrimos = 0 # Nos muestra la cantidad de primos ingresados.
-cantTotal = 0 # Nos muestra la cantidad de números totales ingresados.
+acumulador = 0
 
 while True:
-    numero = int(input('Favor ingresar un número mayor que 2 y menor que 1000 o 0 para salir.  '))
-
-    if (numero == 0):
+    numero = int(input("Por favor ingrese un número o 0 / Salir:  "))
+    if numero == 0:
         break
-    if (numero < 2 or numero > 1000):
-        print('No es un número válido, por favor ingresa otro  ')
-    elif (es_primo(numero)):
+    if es_primo(numero):
         acumulador += numero
-        cantPrimos += 1
-    
-    cantTotal += 1
 
-print(f'\nLa suma de los números primos es: {acumulador} ')
-print(f'La cantidad de números primos es: {cantPrimos} ')
-print(f'La cantidad de los números ingresados es: {cantTotal}\n ')
+print("La suma de los números leidos es igual a : ", acumulador)
