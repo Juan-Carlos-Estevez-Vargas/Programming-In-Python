@@ -34,7 +34,7 @@ Los ejercicios están divididos en carpetas, las cuales cada una de ellas consta
 * [Tiempo final de un periodo de tiempo dado](https://github.com/Juan-Carlos-Estevez-Vargas/Basic-Programming-In-Python/blob/master/2.%20condicionales/duracion_evento.py)
 
 ## Bucles.
-* ### For.
+### For.
 * [Introducción al bucle](https://github.com/Juan-Carlos-Estevez-Vargas/Basic-Programming-In-Python/blob/master/3.%20bucles/for/introduccion_for.py)
 * [Asistente más viejo y más jóven de una reunión](https://github.com/Juan-Carlos-Estevez-Vargas/Basic-Programming-In-Python/blob/master/3.%20bucles/for/Asistentes-Reunion.py)
 * [Encriptación del Cesar](https://github.com/Juan-Carlos-Estevez-Vargas/Basic-Programming-In-Python/blob/master/3.%20bucles/for/Encriptacion-del-cesar.py)
@@ -48,7 +48,7 @@ Los ejercicios están divididos en carpetas, las cuales cada una de ellas consta
 * [Conteo en forma de 'Mississippi'](https://github.com/Juan-Carlos-Estevez-Vargas/Basic-Programming-In-Python/blob/master/3.%20bucles/for/mississippi.py)
 * [Traga palabras](https://github.com/Juan-Carlos-Estevez-Vargas/Basic-Programming-In-Python/blob/master/3.%20bucles/for/traga_palabras.py)
 
-* ### While.
+### While.
 * [Introducción al bucle while](https://github.com/Juan-Carlos-Estevez-Vargas/Basic-Programming-In-Python/blob/master/3.%20bucles/while/introduccion_while.py)
 * [Hipótesis de Lothar Collartz](https://github.com/Juan-Carlos-Estevez-Vargas/Basic-Programming-In-Python/blob/master/3.%20bucles/while/Collartz.py)
 * [Contador de números divisibles en 3 y 7](https://github.com/Juan-Carlos-Estevez-Vargas/Basic-Programming-In-Python/blob/master/3.%20bucles/while/Contador_Numeros.py)
@@ -85,6 +85,23 @@ Este ejercicio consta de una calculadora compuesta realizada en Python y mostrad
 * [Multiplicación de matrices](https://github.com/Juan-Carlos-Estevez-Vargas/Basic-Programming-In-Python/blob/master/5.%20arrays_matrices/matrices/multiplicacion.py)
 * [Suma, resta y multiplicación de matrices con Numpy](https://github.com/Juan-Carlos-Estevez-Vargas/Basic-Programming-In-Python/blob/master/5.%20arrays_matrices/matrices/suma_resta_multiplicacion.py)
 * [Matriz transpuesta](https://github.com/Juan-Carlos-Estevez-Vargas/Basic-Programming-In-Python/blob/master/5.%20arrays_matrices/matrices/transpuesta.py)
+
+## Programación Funcional
+### Decoradores
+* [Introducción a los decoradores en Python](https://github.com/Juan-Carlos-Estevez-Vargas/Basic-Programming-In-Python/blob/master/6.%20programacion-funcional/decoradores/divisionDecoradora.py)
+* [Ejemplo de función divisora utilizando decoradores](https://github.com/Juan-Carlos-Estevez-Vargas/Basic-Programming-In-Python/blob/master/6.%20programacion-funcional/decoradores/divisionDecoradora.py)
+
+### Generadores
+* [Introducción a los generadores](https://github.com/Juan-Carlos-Estevez-Vargas/Basic-Programming-In-Python/blob/master/6.%20programacion-funcional/generadores/introduccion_generadores.py)
+* [¿Como generar números automáticamente?](https://github.com/Juan-Carlos-Estevez-Vargas/Basic-Programming-In-Python/blob/master/6.%20programacion-funcional/generadores/generador_numeros.py)
+* [Introducción a las expresiones generadoras](https://github.com/Juan-Carlos-Estevez-Vargas/Basic-Programming-In-Python/blob/master/6.%20programacion-funcional/generadores/intro_exp_generadoras.py)
+* [Expresión generadora como parámetro](https://github.com/Juan-Carlos-Estevez-Vargas/Basic-Programming-In-Python/blob/master/6.%20programacion-funcional/generadores/exp_generadora_como_parametro.py)
+
+### List Comprehensions
+* [Introducción a List Comprehensions](https://github.com/Juan-Carlos-Estevez-Vargas/Basic-Programming-In-Python/blob/master/6.%20programacion-funcional/list_comprehensions/intro_list_comprehensions.py)
+* [Ejercicio números divisibles entre 2 y 6](https://github.com/Juan-Carlos-Estevez-Vargas/Basic-Programming-In-Python/blob/master/6.%20programacion-funcional/list_comprehensions/numeros_divisibles_entre_2_y_6.py)
+* [Ejemplo if-else con List Comprehensions](https://github.com/Juan-Carlos-Estevez-Vargas/Basic-Programming-In-Python/blob/master/6.%20programacion-funcional/list_comprehensions/if-else.py)
+* [Listas Anidadas empleando List Comprehensions](https://github.com/Juan-Carlos-Estevez-Vargas/Basic-Programming-In-Python/blob/master/6.%20programacion-funcional/list_comprehensions/listComprehensionsAnidadas.py)
 
 # Mis redes sociales
 
