@@ -49,14 +49,14 @@ Los ejercicios están divididos en carpetas, las cuales cada una de ellas consta
 * [Traga palabras](https://github.com/Juan-Carlos-Estevez-Vargas/Basic-Programming-In-Python/blob/master/3.%20bucles/for/traga_palabras.py)
 
 ### While.
-* [Introducción al bucle while](https://github.com/Juan-Carlos-Estevez-Vargas/Basic-Programming-In-Python/blob/master/3.%20bucles/while/introduccion_while.py)
+* <a href="https://www.youtube.com/watch?v=hTHFbcIeHAk&list=PLygvT9FY2jClXD10l8RS3JNVybu58__n5&index=20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uceurvwpmtrxiwzn5cwnjyhq" height="15" width="25" /></a> [Introducción al bucle while](https://github.com/Juan-Carlos-Estevez-Vargas/Basic-Programming-In-Python/blob/master/3.%20bucles/while/introduccion_while.py)
+* <a href="https://www.youtube.com/watch?v=7Lk7oF4b7XU&list=PLygvT9FY2jClXD10l8RS3JNVybu58__n5&index=21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uceurvwpmtrxiwzn5cwnjyhq" height="15" width="25" /></a> [Suma dígitos de un número](https://github.com/Juan-Carlos-Estevez-Vargas/Basic-Programming-In-Python/blob/master/3.%20bucles/while/Suma-digitos-de-un-numero.py)
+* <a href="https://www.youtube.com/watch?v=WPzP_ngwiGM&list=PLygvT9FY2jClXD10l8RS3JNVybu58__n5&index=22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uceurvwpmtrxiwzn5cwnjyhq" height="15" width="25" /></a> [Suma de los dígitos de n números y conteo de cuántos de ellos son pares](https://github.com/Juan-Carlos-Estevez-Vargas/Basic-Programming-In-Python/blob/master/3.%20bucles/while/Numeros-pares.py)
+* <a href="https://www.youtube.com/watch?v=FyLjfPUGMPc&list=PLygvT9FY2jClXD10l8RS3JNVybu58__n5&index=23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uceurvwpmtrxiwzn5cwnjyhq" height="15" width="25" /></a> [Adivina el número](https://github.com/Juan-Carlos-Estevez-Vargas/Basic-Programming-In-Python/blob/master/3.%20bucles/while/numero_secreto.py)
 * [Hipótesis de Lothar Collartz](https://github.com/Juan-Carlos-Estevez-Vargas/Basic-Programming-In-Python/blob/master/3.%20bucles/while/Collartz.py)
 * [Contador de números divisibles en 3 y 7](https://github.com/Juan-Carlos-Estevez-Vargas/Basic-Programming-In-Python/blob/master/3.%20bucles/while/Contador_Numeros.py)
-* [Suma de los dígitos de n números y conteo de cuántos de ellos son pares](https://github.com/Juan-Carlos-Estevez-Vargas/Basic-Programming-In-Python/blob/master/3.%20bucles/while/Numeros-pares.py)
 * [Nómina de n empleados](https://github.com/Juan-Carlos-Estevez-Vargas/Basic-Programming-In-Python/blob/master/3.%20bucles/while/Sueldo_Empleados.py)
-* [Suma dígitos de un número](https://github.com/Juan-Carlos-Estevez-Vargas/Basic-Programming-In-Python/blob/master/3.%20bucles/while/Suma-digitos-de-un-numero.py)
 * [Conteo de votos para 3 candidatos](https://github.com/Juan-Carlos-Estevez-Vargas/Basic-Programming-In-Python/blob/master/3.%20bucles/while/Votaciones.py)
-* [Adivina el número](https://github.com/Juan-Carlos-Estevez-Vargas/Basic-Programming-In-Python/blob/master/3.%20bucles/while/numero_secreto.py)
 
 ## Funciones.
 * [Cálculo de la suma de números primos](https://github.com/Juan-Carlos-Estevez-Vargas/Basic-Programming-In-Python/blob/master/4.%20funciones/Calculo-numeros-primos.py)
