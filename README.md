@@ -4,7 +4,7 @@ Repositorio con los ejercicios realizados en la materia ANÁLISIS DE ALGORITMOS 
 Los ejercicios están divididos en carpetas, las cuales cada una de ellas consta de varios ejericicios prácticos.
 
 ## Fundamentos de programación.
-* [Hola Mundo](https://github.com/Juan-Carlos-Estevez-Vargas/Basic-Programming-In-Python/blob/master/1.%20fundamentos/hola_mundo.py) <a href="https://www.youtube.com/watch?v=yYZbVj3ZbYo&list=PLygvT9FY2jClXD10l8RS3JNVybu58__n5&index=3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uceurvwpmtrxiwzn5cwnjyhq" height="5" width="10" /></a>  
+* [Hola Mundo](https://github.com/Juan-Carlos-Estevez-Vargas/Basic-Programming-In-Python/blob/master/1.%20fundamentos/hola_mundo.py) <a href="https://www.youtube.com/watch?v=yYZbVj3ZbYo&list=PLygvT9FY2jClXD10l8RS3JNVybu58__n5&index=3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uceurvwpmtrxiwzn5cwnjyhq" height="15" width="25" /></a>  
 * [Módulo Math](https://github.com/Juan-Carlos-Estevez-Vargas/Basic-Programming-In-Python/blob/master/1.%20fundamentos/modulo_math.py)
 * [Variables, tipos de datos y métodos de entrada](https://github.com/Juan-Carlos-Estevez-Vargas/Basic-Programming-In-Python/blob/master/1.%20fundamentos/variables_tipos_de_datos_y_metodos_de_entrada.py)
 * [Operadores básicos](https://github.com/Juan-Carlos-Estevez-Vargas/Basic-Programming-In-Python/blob/master/1.%20fundamentos/operadores_basicos.py)
