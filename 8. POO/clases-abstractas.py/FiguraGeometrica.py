@@ -1,9 +1,9 @@
-from abc import ABD, abstractmethod
+from abc import ABC, abstractmethod
 
 # Clase abstracta para todo tipo de figura geométrica
 
 
-class FiguraGeometrica:
+class FiguraGeometrica(ABC):
 
     # Constructor de clase
     def __init__(self, ancho, alto):
