@@ -139,7 +139,7 @@ Los ejercicios están divididos en carpetas, las cuales cada una de ellas consta
 * <a href="https://www.youtube.com/watch?v=hdkBoz23U_A" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uceurvwpmtrxiwzn5cwnjyhq" height="15" width="25" /></a> [Creación clase Products](https://github.com/Juan-Carlos-Estevez-Vargas/Basic-Programming-In-Python/blob/master/9.%20Diagramado%20de%20clases/pedidos/Products.py)
 * <a href="https://www.youtube.com/watch?v=Z9X2ttLHSj0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uceurvwpmtrxiwzn5cwnjyhq" height="15" width="25" /></a> [Creación clase Orders Details](https://github.com/Juan-Carlos-Estevez-Vargas/Basic-Programming-In-Python/blob/master/9.%20Diagramado%20de%20clases/pedidos/Order_details.py)
 * <a href="https://www.youtube.com/watch?v=Z9X2ttLHSj0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uceurvwpmtrxiwzn5cwnjyhq" height="15" width="25" /></a> [Creación de Objetos y test final del ejercicio](https://github.com/Juan-Carlos-Estevez-Vargas/Basic-Programming-In-Python/blob/master/9.%20Diagramado%20de%20clases/pedidos/test_pedidos.py)
-*[Archivos del proyecto](https://github.com/Juan-Carlos-Estevez-Vargas/Basic-Programming-In-Python/tree/master/9.%20Diagramado%20de%20clases/pedidos)
+* [Archivos del proyecto](https://github.com/Juan-Carlos-Estevez-Vargas/Basic-Programming-In-Python/tree/master/9.%20Diagramado%20de%20clases/pedidos)
 
 # Mis redes sociales
 
