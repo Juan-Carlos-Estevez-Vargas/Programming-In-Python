@@ -141,6 +141,10 @@ Los ejercicios están divididos en carpetas, las cuales cada una de ellas consta
 * <a href="https://www.youtube.com/watch?v=Z9X2ttLHSj0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uceurvwpmtrxiwzn5cwnjyhq" height="15" width="25" /></a> [Creación de Objetos y test final del ejercicio](https://github.com/Juan-Carlos-Estevez-Vargas/Basic-Programming-In-Python/blob/master/9.%20Diagramado%20de%20clases/pedidos/test_pedidos.py)
 * [Archivos del proyecto](https://github.com/Juan-Carlos-Estevez-Vargas/Basic-Programming-In-Python/tree/master/9.%20Diagramado%20de%20clases/pedidos)
 
+## Manejo de archivos
+* <a href="https://www.youtube.com/watch?v=Uhi-fB9lGPU&t=22s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uceurvwpmtrxiwzn5cwnjyhq" height="15" width="25" /></a> [Creación y escritura de archivos de texto](https://github.com/Juan-Carlos-Estevez-Vargas/Basic-Programming-In-Python/blob/master/10.%20Manejo-Archivos/escribir-ficheros.py)
+* <a href="https://www.youtube.com/watch?v=bw7VzUEBuNo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uceurvwpmtrxiwzn5cwnjyhq" height="15" width="25" /></a> [Lectura de archivos de texto](https://github.com/Juan-Carlos-Estevez-Vargas/Basic-Programming-In-Python/blob/master/10.%20Manejo-Archivos/leer-ficheros.py)
+
 # Mis redes sociales
 
  <a href="https://www.youtube.com/channel/UCEUrVWPMTrXIWzn5CwnjYhQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uceurvwpmtrxiwzn5cwnjyhq" height="30" width="40" /></a> 
