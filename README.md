@@ -155,6 +155,10 @@ Los ejercicios están divididos en carpetas, las cuales cada una de ellas consta
 * <a href="https://www.youtube.com/watch?v=ThKpkSaK9Xg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uceurvwpmtrxiwzn5cwnjyhq" height="15" width="25" /></a> [¿Qué es el formato JSON?](https://www.youtube.com/watch?v=ThKpkSaK9Xg)
 * <a href="https://www.youtube.com/watch?v=bdyO0aIHCBY" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uceurvwpmtrxiwzn5cwnjyhq" height="15" width="25" /></a> [Estructurando razas en un fichero con formato JSON](https://github.com/Juan-Carlos-Estevez-Vargas/Basic-Programming-In-Python/blob/master/11.%20JSON/estructura_razas.py)
 
+### Ejercicio Aplicación de Favoritos
+* <a href="https://www.youtube.com/watch?v=7Jq_2ish-eg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uceurvwpmtrxiwzn5cwnjyhq" height="15" width="25" /></a> [Inserción de favoritos al sistema](https://github.com/Juan-Carlos-Estevez-Vargas/Basic-Programming-In-Python/blob/master/11.%20JSON/favoritos/crud/agregar_favorito.py)
+* <a href="https://www.youtube.com/watch?v=9yrxSTQL65Y" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uceurvwpmtrxiwzn5cwnjyhq" height="15" width="25" /></a> [Actualización de favoritos al sistema](https://github.com/Juan-Carlos-Estevez-Vargas/Basic-Programming-In-Python/blob/master/11.%20JSON/favoritos/crud/actualizar_favorito.py)
+
 # Mis redes sociales
 
  <a href="https://www.youtube.com/channel/UCEUrVWPMTrXIWzn5CwnjYhQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uceurvwpmtrxiwzn5cwnjyhq" height="30" width="40" /></a> 
