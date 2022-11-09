@@ -44,4 +44,3 @@ def update_favorito():
     archivo.close()
 
 
-update_favorito()
