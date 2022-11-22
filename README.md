@@ -165,10 +165,14 @@ Los ejercicios están divididos en carpetas, las cuales cada una de ellas consta
 ## Estructura de datos
 ### Conjuntos
 * <a href="https://www.youtube.com/watch?v=66Ohs43pjUs&t" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uceurvwpmtrxiwzn5cwnjyhq" height="15" width="25" /></a> [Operaciones con Conjuntos](https://github.com/Juan-Carlos-Estevez-Vargas/Basic-Programming-In-Python/blob/master/12.%20Estructura%20de%20datos/01.%20conjuntos/conjuntos.py)
+
 ### Métodos de Ordenamiento
 * <a href="https://www.youtube.com/watch?v=bmjV437Bwz0&t" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uceurvwpmtrxiwzn5cwnjyhq" height="15" width="25" /></a> [Ordenamiento Burbuja](https://github.com/Juan-Carlos-Estevez-Vargas/Basic-Programming-In-Python/blob/master/12.%20Estructura%20de%20datos/02.%20Ordenamientos/01.%20burbuja.py)
 * <a href="https://www.youtube.com/watch?v=6QCLdhKI9ho" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uceurvwpmtrxiwzn5cwnjyhq" height="15" width="25" /></a> [Ordenamiento por Inserción](https://github.com/Juan-Carlos-Estevez-Vargas/Basic-Programming-In-Python/blob/master/12.%20Estructura%20de%20datos/02.%20Ordenamientos/02.%20insercion.py)
 * <a href="https://www.youtube.com/watch?v=LtWwmBkbda0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uceurvwpmtrxiwzn5cwnjyhq" height="15" width="25" /></a> [Ordenamiento por Selección](https://github.com/Juan-Carlos-Estevez-Vargas/Basic-Programming-In-Python/blob/master/12.%20Estructura%20de%20datos/02.%20Ordenamientos/03.%20seleccion.py)
+
+### Métodos de Búsqueda
+* <a href="https://www.youtube.com/watch?v=lT4QlPRCq9Y" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uceurvwpmtrxiwzn5cwnjyhq" height="15" width="25" /></a> [Búsqueda Lineal o Secuencial](https://github.com/Juan-Carlos-Estevez-Vargas/Basic-Programming-In-Python/blob/master/12.%20Estructura%20de%20datos/03.%20busquedas/01.%20busqueda_lineal.py)
 
 # Mis redes sociales
 
