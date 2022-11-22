@@ -173,6 +173,7 @@ Los ejercicios están divididos en carpetas, las cuales cada una de ellas consta
 
 ### Métodos de Búsqueda
 * <a href="https://www.youtube.com/watch?v=lT4QlPRCq9Y" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uceurvwpmtrxiwzn5cwnjyhq" height="15" width="25" /></a> [Búsqueda Lineal o Secuencial](https://github.com/Juan-Carlos-Estevez-Vargas/Basic-Programming-In-Python/blob/master/12.%20Estructura%20de%20datos/03.%20busquedas/01.%20busqueda_lineal.py)
+* <a href="https://www.youtube.com/watch?v=wPwx2sDex6c" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uceurvwpmtrxiwzn5cwnjyhq" height="15" width="25" /></a> [Búsqueda Binaria](https://github.com/Juan-Carlos-Estevez-Vargas/Basic-Programming-In-Python/blob/master/12.%20Estructura%20de%20datos/03.%20busquedas/02.%20busqueda_binaria.py)
 
 # Mis redes sociales
 
