@@ -192,6 +192,10 @@ Los ejercicios están divididos en carpetas, las cuales cada una de ellas consta
 ### 13.5 Diccionarios
 * <a href="https://www.youtube.com/watch?v=5BbE5m86WaE" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uceurvwpmtrxiwzn5cwnjyhq" height="15" width="25" /></a> [Introducción a los diccionarios, explicación, utilidad y ejemplo](https://github.com/Juan-Carlos-Estevez-Vargas/Basic-Programming-In-Python/blob/master/12.%20Estructura%20de%20datos/07.%20diccionarios/01.%20contactos.py)
 * <a href="https://www.youtube.com/watch?v=mv_TIHCm724" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uceurvwpmtrxiwzn5cwnjyhq" height="15" width="25" /></a> [Ejercicio básico empleando diccionarios](https://github.com/Juan-Carlos-Estevez-Vargas/Basic-Programming-In-Python/blob/master/12.%20Estructura%20de%20datos/07.%20diccionarios/02.%20articulos.py)
+* <a href="https://www.youtube.com/watch?v=eCEisbCYclw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uceurvwpmtrxiwzn5cwnjyhq" height="15" width="25" /></a> [Operaciones fundamentales empleando diccionarios](https://github.com/Juan-Carlos-Estevez-Vargas/Basic-Programming-In-Python/blob/master/12.%20Estructura%20de%20datos/07.%20diccionarios/03.%20operaciones.py)
+
+### 13.6 Árboles
+* <a href="https://www.youtube.com/watch?v=q_nBZTwYr0o" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uceurvwpmtrxiwzn5cwnjyhq" height="15" width="25" /></a> [Árboles Binarios de Búsqueda](https://github.com/Juan-Carlos-Estevez-Vargas/Basic-Programming-In-Python/blob/master/12.%20Estructura%20de%20datos/08.%20arboles/01.%20arbol_binario_busqueda.py)
 
 
 # Mis redes sociales
