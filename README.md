@@ -196,6 +196,8 @@ Los ejercicios están divididos en carpetas, las cuales cada una de ellas consta
 
 ### 13.6 Árboles
 * <a href="https://www.youtube.com/watch?v=q_nBZTwYr0o" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uceurvwpmtrxiwzn5cwnjyhq" height="15" width="25" /></a> [Árboles Binarios de Búsqueda](https://github.com/Juan-Carlos-Estevez-Vargas/Basic-Programming-In-Python/blob/master/12.%20Estructura%20de%20datos/08.%20arboles/01.%20arbol_binario_busqueda.py)
+* <a href="https://www.youtube.com/watch?v=pX5MoFxSg2k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uceurvwpmtrxiwzn5cwnjyhq" height="15" width="25" /></a> [Árboles AVL](https://github.com/Juan-Carlos-Estevez-Vargas/Basic-Programming-In-Python/blob/master/12.%20Estructura%20de%20datos/08.%20arboles/02.%20arbol_avl.py)
+* <a href="https://www.youtube.com/watch?v=ihXp8oLPOH0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uceurvwpmtrxiwzn5cwnjyhq" height="15" width="25" /></a> [Árboles Rojo-Negro](https://github.com/Juan-Carlos-Estevez-Vargas/Basic-Programming-In-Python/blob/master/12.%20Estructura%20de%20datos/08.%20arboles/03.%20arbol_rojo_negro.py)
 
 
 # Mis redes sociales
