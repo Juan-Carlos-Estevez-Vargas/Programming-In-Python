@@ -208,6 +208,16 @@ Los ejercicios están divididos en carpetas, las cuales cada una de ellas consta
 * <a href="https://www.youtube.com/watch?v=SHDhxGb1E0o&t" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uceurvwpmtrxiwzn5cwnjyhq" height="15" width="25" /></a> [Expresión regular para validar correos electrónicos](https://github.com/Juan-Carlos-Estevez-Vargas/Basic-Programming-In-Python/blob/master/13.%20regex/06.%20valida_mail.py)
 * <a href="https://www.youtube.com/watch?v=SHDhxGb1E0o&t" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uceurvwpmtrxiwzn5cwnjyhq" height="15" width="25" /></a> [Expresión regular para validar fechas](https://github.com/Juan-Carlos-Estevez-Vargas/Basic-Programming-In-Python/blob/master/13.%20regex/07.%20valida_fechas.py)
 
+## Acceso a Bases de Datos
+### PostgreSQL
+* <a href="https://www.youtube.com/watch?v=dFodF0soz0Q" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uceurvwpmtrxiwzn5cwnjyhq" height="15" width="25" /></a> [Conectando a una base de datos PostgreSQL de manera tradicional y sencilla](https://github.com/Juan-Carlos-Estevez-Vargas/Basic-Programming-In-Python/blob/master/14.%20bases%20de%20datos/postgres/01.%20conexion.py)
+
+### MySQL
+* <a href="https://www.youtube.com/watch?v=dFodF0soz0Q" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uceurvwpmtrxiwzn5cwnjyhq" height="15" width="25" /></a> [Conectando a una base de datos MySQL de manera tradicional y sencilla](https://github.com/Juan-Carlos-Estevez-Vargas/Basic-Programming-In-Python/blob/master/14.%20bases%20de%20datos/mysql/01.%20conexion.py)
+
+### SQLite
+* <a href="https://www.youtube.com/watch?v=dFodF0soz0Q" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uceurvwpmtrxiwzn5cwnjyhq" height="15" width="25" /></a> [Conectando a una base de datos SQLite de manera tradicional y sencilla](https://github.com/Juan-Carlos-Estevez-Vargas/Basic-Programming-In-Python/blob/master/14.%20bases%20de%20datos/sqlite/01.%20conexion.py)
+
 
 # Mis redes sociales
 
