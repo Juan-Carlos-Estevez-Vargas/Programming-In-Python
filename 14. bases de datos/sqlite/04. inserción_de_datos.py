@@ -12,7 +12,7 @@ insertar_tabla_paciente_sql = """
             tipo_identificacion, 
             eps, 
             historia_clinica) 
-        VALUES ($s, $s, $s, $s, $s, $s);
+        VALUES (%s, %s, %s, %s, %s, %s);
 """
 
 valores = (1, "Juan Estevez", "2001/05/01", "CC", "EPS 1", "Sufre de algo")
