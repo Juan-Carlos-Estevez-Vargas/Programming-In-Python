@@ -3,7 +3,7 @@ from tkinter import messagebox
 import sqlite3
 
 # Creamos la conexión a la base de datos
-conn = sqlite3.connect('usuarios.db')
+conn = sqlite3.connect('15. interfaces graficas/usuarios.db')
 
 # Creamos la tabla de usuarios
 conn.execute('''CREATE TABLE IF NOT EXISTS usuarios

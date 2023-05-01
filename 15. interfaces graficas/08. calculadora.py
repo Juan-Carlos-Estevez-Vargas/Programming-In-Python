@@ -2,11 +2,13 @@ import tkinter as tk
 
 
 class Calculator(object):
+    '''Esta clase construye y manipula una calculadora gráfica'''
+
     def __init__(self, parent=tk.Tk()):
         self.parent = parent
         self.parent.title("PyCalc - Calculator")
         self.parent.option_add("*Font", "Verdana 12 normal")
-        # self.parent.iconbitmap("icones/calc_icon.ico")
+        self.parent.iconbitmap("15. interfaces graficas/icons/calculadora.ico")
 
         # Variable de control, utilizada en método key_press
         self.decimal_point_open = False
@@ -68,7 +70,7 @@ class Calculator(object):
         self.mount_gui()
         self.parent.mainloop()
 
-    # Monta y configural os componentes gráficos
+    # Monta y configura los componentes gráficos
     def mount_gui(self):
         self.display.grid(row=0, column=0, columnspan=4,
                           sticky="ewns", ipady=5, padx=2, pady=2)
@@ -103,7 +105,7 @@ class Calculator(object):
     def about(self):
         about_window = tk.Toplevel(self.parent)
         about_window.title("PyCalc - About")
-        # about_window.iconbitmap("icones/about_icon.ico")
+        about_window.iconbitmap("calculadora.ico")
         tk.Label(about_window, text="PyCalc", font=("Verdana", 15, "bold")).grid(
             row=0, column=0, padx=5, pady=5, sticky="s")
         tk.Label(about_window, text="Simple Calculator").grid(
@@ -205,7 +207,7 @@ class Calculator(object):
         # Guarda la expresión preparada como un atributo del objeto
         self.math_expression = elementos
 
-    # Calcula la expresión
+     # Calcula la expresión
     def calc_expression(self, event=None):
         self.prepare_expression()
         # multiplicación y división, precedencia: lo que ocurra primero de izquierda a derecha
@@ -263,5 +265,5 @@ class Calculator(object):
         self.display_stringvar.set(final_result)
 
 
-if (__name__ == "__main__"):
-    calculator = Calculator()
+if __name__ == "__main__":
+    calculadora = Calculator()
