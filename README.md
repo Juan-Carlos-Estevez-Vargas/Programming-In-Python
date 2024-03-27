@@ -266,7 +266,7 @@ Los ejercicios están divididos en carpetas, las cuales cada una de ellas consta
 
 ## Bónus
 ### Programación Dinámica
-* <a href="" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uceurvwpmtrxiwzn5cwnjyhq" height="15" width="25" /></a> [Sucesión de Fibonacci Dinámica](https://github.com/Juan-Carlos-Estevez-Vargas/Programming-In-Python/blob/master/16.%20bonus%20extra/01.%20programacion-dinamica/programacion_dinamica.py)
+* <a href="https://www.youtube.com/watch?v=Q2VRmSevso0" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uceurvwpmtrxiwzn5cwnjyhq" height="15" width="25" /></a> [Sucesión de Fibonacci Dinámica](https://github.com/Juan-Carlos-Estevez-Vargas/Programming-In-Python/blob/master/16.%20bonus%20extra/01.%20programacion-dinamica/programacion_dinamica.py)
 * [Caminos Aleatorios](https://github.com/Juan-Carlos-Estevez-Vargas/Programming-In-Python/tree/master/16.%20bonus%20extra/01.%20programacion-dinamica/camino_aleatorio)
 
 ### Programación Estocástica
@@ -277,7 +277,7 @@ Los ejercicios están divididos en carpetas, las cuales cada una de ellas consta
 * [Implementación base de un Grafo](https://github.com/Juan-Carlos-Estevez-Vargas/Programming-In-Python/blob/master/16.%20bonus%20extra/02.%20programacion-estocastica/02.%20estadistica_descriptiva.py)
 
 ### Extras
-* <a href="" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uceurvwpmtrxiwzn5cwnjyhq" height="15" width="25" /></a> [Sistema de encriptación "La cifra del César"](https://www.youtube.com/watch?v=PKEdhlt4Xr8)
+* <a href="https://www.youtube.com/watch?v=PKEdhlt4Xr8&pp=ygUaanVhbiBjYXJsb3MgZXN0ZXZleiB2YXJnYXM%3D" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uceurvwpmtrxiwzn5cwnjyhq" height="15" width="25" /></a> [Sistema de encriptación "La cifra del César"](https://github.com/Juan-Carlos-Estevez-Vargas/Programming-In-Python/blob/master/16.%20bonus%20extra/cifrado-cesar.py)
 
 ### Si te ha gustado el proyecto invitame un café
 <div align="left">
